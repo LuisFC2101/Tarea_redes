@@ -3,6 +3,7 @@ README-------
 Para poder ejecutar correctamente el juego se deben seguir las siguientes intrucciones.
 
 DATO:Ejecutarlo en una distribucion de linux(Importante)
+
 DATO:Este juego acepta multijugador, siempre y cuando esten los dispositivos esten conectados en la misma red.
 
 1.-Descargue la carpeta de GITHUB
